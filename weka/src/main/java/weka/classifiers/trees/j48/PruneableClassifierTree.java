@@ -34,7 +34,7 @@ import weka.core.Utils;
  * be pruned using a pruning set. 
  *
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision: 14511 $
+ * @version $Revision: 14534 $
  */
 public class PruneableClassifierTree 
   extends ClassifierTree {
@@ -206,6 +206,6 @@ public class PruneableClassifierTree
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision: 14511 $");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 }

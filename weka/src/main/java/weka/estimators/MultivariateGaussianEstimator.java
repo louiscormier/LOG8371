@@ -32,7 +32,7 @@ import java.io.Serializable;
  * 
  * @author Uday Kamath, PhD, George Mason University
  * @author Eibe Frank, University of Waikato
- * @version $Revision: 12898 $
+ * @version $Revision: 12904 $
  *
  */
 public class MultivariateGaussianEstimator implements MultivariateEstimator, Serializable {

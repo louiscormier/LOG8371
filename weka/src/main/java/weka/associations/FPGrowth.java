@@ -150,7 +150,7 @@ import weka.core.Utils;
  * <!-- options-end -->
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision: 14539 $
+ * @version $Revision: 14540 $
  */
 public class FPGrowth extends AbstractAssociator implements
   AssociationRulesProducer, OptionHandler, TechnicalInformationHandler {
@@ -2411,7 +2411,7 @@ public class FPGrowth extends AbstractAssociator implements
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision: 14539 $");
+    return RevisionUtils.extract("$Revision: 14540 $");
   }
 
   /**

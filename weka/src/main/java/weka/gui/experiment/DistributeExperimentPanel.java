@@ -45,7 +45,7 @@ import weka.experiment.RemoteExperiment;
  * it also allows remote host names to be specified.
  *
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision: 14496 $
+ * @version $Revision: 14497 $
  */
 public class DistributeExperimentPanel
   extends JPanel {

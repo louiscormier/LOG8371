@@ -78,7 +78,7 @@ import java.util.Vector;
  * This panel controls simple analysis of experimental results.
  * 
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision: 14494 $
+ * @version $Revision: 14497 $
  */
 public class ResultsPanel extends JPanel {
 

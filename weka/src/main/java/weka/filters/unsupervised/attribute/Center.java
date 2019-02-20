@@ -44,7 +44,7 @@ import weka.filters.UnsupervisedFilter;
  * 
  * @author Eibe Frank (eibe@cs.waikato.ac.nz) 
  * @author FracPete (fracpete at waikato dot ac dot nz) 
- * @version $Revision: 14508 $
+ * @version $Revision: 14534 $
  */
 public class Center 
   extends PotentialClassIgnorer 
@@ -316,7 +316,7 @@ public class Center
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision: 14508 $");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 
   /**

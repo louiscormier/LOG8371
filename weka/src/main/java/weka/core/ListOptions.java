@@ -27,7 +27,7 @@ import java.util.Vector;
  * Lists the options of an OptionHandler
  * 
  * @author fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision: 12947 $
+ * @version $Revision: 12950 $
  */
 public class ListOptions implements OptionHandler, RevisionHandler, CommandlineRunnable {
 
@@ -155,7 +155,7 @@ public class ListOptions implements OptionHandler, RevisionHandler, CommandlineR
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision: 12947 $");
+    return RevisionUtils.extract("$Revision: 12950 $");
   }
 
   /**

@@ -40,7 +40,7 @@ import java.util.Collections;
  * Represents a TableModel with sorting functionality.
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision: 14293 $
+ * @version $Revision: 14604 $
  */
 
 public class SortedTableModel extends AbstractTableModel implements

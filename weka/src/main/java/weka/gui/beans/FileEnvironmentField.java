@@ -48,7 +48,7 @@ import weka.gui.PropertyDialog;
  * This class is deprecated - use the version in weka.gui instead.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision: 14496 $
+ * @version $Revision: 14497 $
  */
 @Deprecated
 public class FileEnvironmentField extends EnvironmentField {

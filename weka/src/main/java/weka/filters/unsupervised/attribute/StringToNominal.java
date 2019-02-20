@@ -55,7 +55,7 @@ import weka.filters.UnsupervisedFilter;
  * <!-- options-end -->
  * 
  * @author Len Trigg (len@reeltwo.com)
- * @version $Revision: 14508 $
+ * @version $Revision: 14534 $
  */
 public class StringToNominal extends Filter implements UnsupervisedFilter,
   OptionHandler, WeightedAttributesHandler, WeightedInstancesHandler {
@@ -359,7 +359,7 @@ public class StringToNominal extends Filter implements UnsupervisedFilter,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision: 14508 $");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 
   /**

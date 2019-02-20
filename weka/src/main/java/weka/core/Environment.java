@@ -36,7 +36,7 @@ import java.util.TreeMap;
  * in Strings.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision: 13892 $
+ * @version $Revision: 13893 $
  */
 public class Environment implements RevisionHandler {
 
@@ -225,6 +225,6 @@ public class Environment implements RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision: 13892 $");
+    return RevisionUtils.extract("$Revision: 13893 $");
   }
 }

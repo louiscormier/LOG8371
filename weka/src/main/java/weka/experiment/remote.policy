@@ -19,7 +19,7 @@
  * Note:
  * replace <db.jar> with actual jar filename, e.g., mysql.jar
  *
- * Version: $Revision: 13925 $
+ * Version: $Revision: 13922 $
  */
 
 grant {

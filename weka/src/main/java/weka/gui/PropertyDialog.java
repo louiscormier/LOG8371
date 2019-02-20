@@ -38,7 +38,7 @@ import javax.swing.JInternalFrame;
  * a separate frame.
  *
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision: 14494 $
+ * @version $Revision: 14497 $
  */
 public class PropertyDialog
   extends JDialog {

@@ -114,7 +114,7 @@ import java.util.List;
  *
  * @author Richard Kirkby (rkirkby@cs.waikato.ac.nz)
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision: 14499 $
+ * @version $Revision: 14500 $
  */
 @PerspectiveInfo(ID = "weka.gui.explorer.preprocesspanel",
   title = "Preprocess", toolTipText = "Preprocess data",

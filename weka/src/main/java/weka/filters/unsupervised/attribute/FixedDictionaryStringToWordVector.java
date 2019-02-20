@@ -136,7 +136,7 @@ import weka.gui.FilePropertyMetadata;
  * <!-- options-end -->
  *
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision: 14508 $
+ * @version $Revision: 14534 $
  */
 public class FixedDictionaryStringToWordVector extends SimpleStreamFilter
   implements UnsupervisedFilter, EnvironmentHandler, WeightedInstancesHandler {

@@ -64,7 +64,7 @@ import weka.gui.ProgrammaticProperty;
  * <!-- options-end -->
  * 
  * @author Gabi Schmidberger (gabi@cs.waikato.ac.nz)
- * @version $Revision: 14508 $
+ * @version $Revision: 14534 $
  */
 public class AddNoise extends Filter implements UnsupervisedFilter,
   OptionHandler, Randomizable, WeightedAttributesHandler {
@@ -638,7 +638,7 @@ public class AddNoise extends Filter implements UnsupervisedFilter,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision: 14508 $");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 
   /**

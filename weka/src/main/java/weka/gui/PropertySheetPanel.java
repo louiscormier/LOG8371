@@ -74,7 +74,7 @@ import weka.gui.beans.GOECustomizer;
  * may be edited.
  * 
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision: 14494 $
+ * @version $Revision: 14497 $
  */
 public class PropertySheetPanel extends JPanel implements
   PropertyChangeListener, EnvironmentHandler {

@@ -15,7 +15,7 @@
 
 /*
  * SqlViewer.java
- * Copyright (C) 2005-2018 University of Waikato, Hamilton, New Zealand
+ * Copyright (C) 2005-2012 University of Waikato, Hamilton, New Zealand
  *
  */
 
@@ -52,7 +52,7 @@ import java.util.Properties;
  * Represents a little tool for querying SQL databases.
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision: 14777 $
+ * @version $Revision: 14780 $
  */
 public class SqlViewer extends JPanel implements ConnectionListener,
   HistoryChangedListener, QueryExecuteListener, ResultChangedListener {

@@ -49,7 +49,7 @@ import weka.core.*;
  * <!-- options-end -->
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision: 14508 $
+ * @version $Revision: 14534 $
  * @see weka.filters.StreamableFilter
  */
 public class MultiFilter extends SimpleStreamFilter implements WeightedAttributesHandler, WeightedInstancesHandler {
@@ -449,7 +449,7 @@ public class MultiFilter extends SimpleStreamFilter implements WeightedAttribute
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision: 14508 $");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 
   /**

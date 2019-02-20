@@ -48,7 +48,7 @@ import weka.core.Utils;
  * gives counts for each attribute value.
  * 
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision: 14582 $
+ * @version $Revision: 14589 $
  */
 public class AttributeSummaryPanel extends JPanel {
 

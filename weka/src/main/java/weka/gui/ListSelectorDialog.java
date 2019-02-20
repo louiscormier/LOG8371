@@ -40,7 +40,7 @@ import javax.swing.JScrollPane;
  * make a selection from, or cancel the selection.
  *
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision: 14494 $
+ * @version $Revision: 14497 $
  */
 public class ListSelectorDialog
   extends JDialog {

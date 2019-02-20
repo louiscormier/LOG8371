@@ -78,7 +78,7 @@ import java.util.Vector;
  * </pre> </code>
  * 
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision: 14804 $
+ * @version $Revision: 14805 $
  */
 public abstract class Filter implements Serializable, CapabilitiesHandler,
   RevisionHandler, OptionHandler, CapabilitiesIgnorer, CommandlineRunnable {
@@ -182,7 +182,7 @@ public abstract class Filter implements Serializable, CapabilitiesHandler,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision: 14804 $");
+    return RevisionUtils.extract("$Revision: 14805 $");
   }
 
   /**

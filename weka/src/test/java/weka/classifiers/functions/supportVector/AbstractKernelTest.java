@@ -35,7 +35,7 @@ import junit.framework.TestCase;
  * tests. It follows basically the <code>testsPerClassType</code> method.
  *
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision: 14516 $
+ * @version $Revision: 14534 $
  *
  * @see CheckKernel
  * @see CheckKernel#testsPerClassType(int, boolean, boolean)

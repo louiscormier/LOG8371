@@ -45,7 +45,7 @@ import weka.gui.sql.event.HistoryChangedListener;
  * this database.
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision: 14494 $
+ * @version $Revision: 14497 $
  */
 public class ConnectionPanel extends JPanel implements CaretListener {
 

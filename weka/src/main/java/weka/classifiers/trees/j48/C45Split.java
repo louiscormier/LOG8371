@@ -32,7 +32,7 @@ import weka.core.Utils;
  * Class implementing a C4.5-type split on an attribute.
  * 
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision: 14911 $
+ * @version $Revision: 14912 $
  */
 public class C45Split extends ClassifierSplitModel {
 
@@ -512,6 +512,6 @@ public class C45Split extends ClassifierSplitModel {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision: 14911 $");
+    return RevisionUtils.extract("$Revision: 14912 $");
   }
 }

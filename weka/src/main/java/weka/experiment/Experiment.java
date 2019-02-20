@@ -178,7 +178,7 @@ import weka.experiment.xml.XMLExperiment;
  * <p>
  * 
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision: 13476 $
+ * @version $Revision: 13477 $
  */
 public class Experiment implements Serializable, OptionHandler, RevisionHandler {
 
@@ -1291,6 +1291,6 @@ public class Experiment implements Serializable, OptionHandler, RevisionHandler 
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision: 13476 $");
+    return RevisionUtils.extract("$Revision: 13477 $");
   }
 } // Experiment

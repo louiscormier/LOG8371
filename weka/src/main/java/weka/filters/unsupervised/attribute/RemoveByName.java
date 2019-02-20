@@ -58,7 +58,7 @@ import weka.filters.SimpleStreamFilter;
  * <!-- options-end -->
  * 
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision: 14508 $
+ * @version $Revision: 14534 $
  */
 public class RemoveByName extends SimpleStreamFilter implements WeightedInstancesHandler, WeightedAttributesHandler {
 
@@ -320,7 +320,7 @@ public class RemoveByName extends SimpleStreamFilter implements WeightedInstance
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision: 14508 $");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 
   /**

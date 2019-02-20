@@ -34,7 +34,7 @@ import java.util.Enumeration;
  * will be stored explicitly.
  * 
  * @author Eibe Frank
- * @version $Revision: 15069 $
+ * @version $Revision: 15070 $
  */
 public class SparseInstance extends AbstractInstance {
 
@@ -829,6 +829,6 @@ public class SparseInstance extends AbstractInstance {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision: 15069 $");
+    return RevisionUtils.extract("$Revision: 15070 $");
   }
 }

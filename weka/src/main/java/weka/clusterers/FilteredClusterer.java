@@ -87,7 +87,7 @@ import weka.filters.SupervisedFilter;
  * 
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision: 14131 $
+ * @version $Revision: 14132 $
  * @see weka.classifiers.meta.FilteredClassifier
  */
 public class FilteredClusterer extends SingleClustererEnhancer implements Drawable {
@@ -433,7 +433,7 @@ public class FilteredClusterer extends SingleClustererEnhancer implements Drawab
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision: 14131 $");
+    return RevisionUtils.extract("$Revision: 14132 $");
   }
 
   /**

@@ -48,7 +48,7 @@ import weka.core.WeightedInstancesHandler;
  <!-- options-end -->
  *
  * @author Stefan Mutter (mutter@cs.waikato.ac.nz)
- * @version $Revision: 14861 $
+ * @version $Revision: 14860 $
  * @see Saver
  */
 public class SerializedInstancesSaver 
@@ -168,7 +168,7 @@ public class SerializedInstancesSaver
    * @return		the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision: 14861 $");
+    return RevisionUtils.extract("$Revision: 14860 $");
   }
 
   /**

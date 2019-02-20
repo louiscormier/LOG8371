@@ -109,7 +109,7 @@ import java.util.zip.GZIPOutputStream;
  * 
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
  * @author Richard Kirkby (rkirkby@cs.waikato.ac.nz)
- * @version $Revision: 14494 $
+ * @version $Revision: 14497 $
  */
 @PerspectiveInfo(ID = "weka.gui.explorer.clustererpanel", title = "Cluster",
   toolTipText = "Cluster instances",

@@ -88,7 +88,7 @@ import weka.core.Utils;
  * 
  * @author Remco Bouckaert (rrb@xm.co.nz, remco@cs.waikato.ac.nz)
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision: 13174 $
+ * @version $Revision: 13179 $
  */
 public class HierarchicalClusterer extends AbstractClusterer implements
   OptionHandler, Drawable {
@@ -1201,6 +1201,6 @@ public class HierarchicalClusterer extends AbstractClusterer implements
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision: 13174 $");
+    return RevisionUtils.extract("$Revision: 13179 $");
   }
 } // class HierarchicalClusterer

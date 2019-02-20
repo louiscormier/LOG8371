@@ -618,7 +618,7 @@ public class Tee
    * }</pre>
    *
    * @param  l
-   *         The {@linkplain Locale locale} to apply during
+   *         The {@linkplain java.util.Locale locale} to apply during
    *         formatting.  If {@code l} is {@code null} then no localization
    *         is applied.
    *

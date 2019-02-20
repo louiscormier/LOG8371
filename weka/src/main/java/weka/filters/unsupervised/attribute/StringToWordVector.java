@@ -130,7 +130,7 @@ import weka.filters.UnsupervisedFilter;
  * @author Stuart Inglis (stuart@reeltwo.com)
  * @author Gordon Paynter (gordon.paynter@ucr.edu)
  * @author Asrhaf M. Kibriya (amk14@cs.waikato.ac.nz)
- * @version $Revision: 14508 $
+ * @version $Revision: 14534 $
  */
 public class StringToWordVector extends Filter implements UnsupervisedFilter,
   OptionHandler, WeightedInstancesHandler {
@@ -1289,7 +1289,7 @@ public class StringToWordVector extends Filter implements UnsupervisedFilter,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision: 14508 $");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 
   /**

@@ -71,7 +71,7 @@ import java.util.Map;
  * <!-- options-end -->
  * 
  * @author fracpete (fracpete at waikato dot ac dot nz)
- * @version $Revision: 14789 $
+ * @version $Revision: 10169 $
  */
 public class InMemory extends AbstractOutput {
 

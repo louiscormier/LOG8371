@@ -107,7 +107,7 @@ import weka.filters.SupervisedFilter;
  <!-- options-end -->
  * 
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision: 14508 $
+ * @version $Revision: 14534 $
  */
 public class AttributeSelection extends Filter implements SupervisedFilter,
   OptionHandler, WeightedAttributesHandler, WeightedInstancesHandler {
@@ -593,7 +593,7 @@ public class AttributeSelection extends Filter implements SupervisedFilter,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision: 14508 $");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 
   /**

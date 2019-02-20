@@ -140,7 +140,7 @@ import weka.core.Utils;
  * <!-- options-end -->
  * 
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
- * @version $Revision: 13374 $
+ * @version $Revision: 13375 $
  */
 public class ReliefFAttributeEval extends ASEvaluation implements
   AttributeEvaluator, OptionHandler, TechnicalInformationHandler {
@@ -1323,7 +1323,7 @@ public class ReliefFAttributeEval extends ASEvaluation implements
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision: 13374 $");
+    return RevisionUtils.extract("$Revision: 13375 $");
   }
   
   @Override

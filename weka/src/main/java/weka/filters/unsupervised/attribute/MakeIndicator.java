@@ -62,7 +62,7 @@ import weka.filters.UnsupervisedFilter;
  * <!-- options-end -->
  * 
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision: 14508 $
+ * @version $Revision: 14534 $
  */
 public class MakeIndicator extends Filter implements UnsupervisedFilter,
   StreamableFilter, OptionHandler, WeightedAttributesHandler, WeightedInstancesHandler {
@@ -462,7 +462,7 @@ public class MakeIndicator extends Filter implements UnsupervisedFilter,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision: 14508 $");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 
   /**

@@ -41,7 +41,7 @@ import java.awt.event.ActionListener;
  *
  * @see weka.gui.arffviewer.ArffViewer
  * @author FracPete (fracpete at waikato dot ac dot nz)
- * @version $Revision: 14494 $ 
+ * @version $Revision: 14497 $ 
  */
 public class ViewerDialog 
   extends JDialog 

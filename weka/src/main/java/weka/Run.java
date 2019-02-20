@@ -44,7 +44,7 @@ import weka.core.WekaPackageClassLoaderManager;
  * weka.classifiers.bayes.NaiveBayesUpdateable
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision: 13476 $
+ * @version $Revision: 13477 $
  * 
  */
 public class Run {

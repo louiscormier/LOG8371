@@ -76,7 +76,7 @@ import java.util.zip.ZipInputStream;
  * command line interface for package management.
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision: 15043 $
+ * @version $Revision: 15044 $
  */
 public class WekaPackageManager {
 

@@ -145,7 +145,7 @@ import java.util.*;
  * <!-- options-end -->
  *
  * @author Len Trigg (trigg@cs.waikato.ac.nz)
- * @version $Revision: 15021 $
+ * @version $Revision: 15022 $
  */
 public class FilteredClassifier extends RandomizableSingleClassifierEnhancer
   implements Drawable, PartitionGenerator, IterativeClassifier, BatchPredictor,
@@ -996,7 +996,7 @@ public class FilteredClassifier extends RandomizableSingleClassifierEnhancer
    * @return the revision
    */
   public String getRevision() {
-    return RevisionUtils.extract("$Revision: 15021 $");
+    return RevisionUtils.extract("$Revision: 15022 $");
   }
 
   /**

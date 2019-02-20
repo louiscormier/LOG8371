@@ -65,7 +65,7 @@ import weka.filters.UnsupervisedFilter;
  * 
  * @author Mark Hall (mhall@cs.waikato.ac.nz)
  * @author Eibe Frank
- * @version $Revision: 14508 $
+ * @version $Revision: 14534 $
  */
 public class ClusterMembership extends Filter implements UnsupervisedFilter,
   OptionHandler, WeightedInstancesHandler, WeightedAttributesHandler {
@@ -555,7 +555,7 @@ public class ClusterMembership extends Filter implements UnsupervisedFilter,
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision: 14508 $");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 
   /**

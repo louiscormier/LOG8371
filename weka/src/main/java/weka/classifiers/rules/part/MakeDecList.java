@@ -40,7 +40,7 @@ import weka.core.Utils;
  * Class for handling a decision list.
  * 
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision: 14511 $
+ * @version $Revision: 14534 $
  */
 public class MakeDecList implements Serializable, RevisionHandler {
 
@@ -262,6 +262,6 @@ public class MakeDecList implements Serializable, RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision: 14511 $");
+    return RevisionUtils.extract("$Revision: 14534 $");
   }
 }

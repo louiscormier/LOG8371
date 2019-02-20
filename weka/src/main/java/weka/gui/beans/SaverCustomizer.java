@@ -50,7 +50,7 @@ import weka.gui.PropertySheetPanel;
  * GUI Customizer for the saver bean
  *
  * @author <a href="mailto:mutter@cs.waikato.ac.nz">Stefan Mutter</a>
- * @version $Revision: 14494 $
+ * @version $Revision: 14497 $
  */
 public class SaverCustomizer
 extends JPanel

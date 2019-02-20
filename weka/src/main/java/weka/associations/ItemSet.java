@@ -40,7 +40,7 @@ import weka.core.WekaEnumeration;
  * methods used for item sets in class - and standard association rule mining.
  * 
  * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version $Revision: 13476 $
+ * @version $Revision: 13477 $
  */
 public class ItemSet implements Serializable, RevisionHandler {
 
@@ -634,6 +634,6 @@ public class ItemSet implements Serializable, RevisionHandler {
    */
   @Override
   public String getRevision() {
-    return RevisionUtils.extract("$Revision: 13476 $");
+    return RevisionUtils.extract("$Revision: 13477 $");
   }
 }

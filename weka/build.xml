@@ -1,6 +1,6 @@
 <project name="weka" default="compile" basedir="."
  xmlns:if="ant:if" xmlns:unless="ant:unless">
-<!-- 
+<!--
   ===========================================================================
    Ant build file for weka. Tested with ant 1.6.5 and Junit 3.8.2. Requires
    JavaMail and the java activation framework for mailing unit test results.
@@ -10,7 +10,7 @@
    Build file can reside and be executed from either inside weka or the
    directory containing weka.
 
-   $Revision: 15031 $
+   $Revision: 15027 $
   ===========================================================================
 -->
 
@@ -611,7 +611,7 @@
     </antcall>
   </target>
 
-  <target name="apply_all" depends="compile" description="Apply command to all packages. Use -DpackageCommand=[make|compile|compile_tests|clean]">
+  <target name="apply_all" depends="compile" description="Apply command to all packages. Use -DpackageCommand=[make|compile|compile_tests|clean]"> 
     <antcall target="apply_all_internal"/>
     <antcall target="apply_all_external"/>
   </target>
@@ -624,14 +624,14 @@
   <!-- Compile the java code from ${src}/weka into ${build}/classes -->
   <target name="compile" depends="init_compile" 
    description="Compile weka and deposit class files in build/classes">
-    <javac srcdir="${src}" 
-      fork="yes" memoryMaximumSize="${javac_max_memory}"
+    <javac srcdir="${src}"
+      fork="yes" memoryMaximumSize="${javac_max_memory}" 
       destdir="${build}/classes"
       optimize="${optimization}"
       debug="${debug}"
       includeantruntime="false"
       deprecation="${deprecation}"
-      source="1.8" target="1.8" release="8">
+      source="1.8" target="1.8" release="8" >
 
       <classpath refid="project.class.path" /> 
     </javac>

@@ -39,7 +39,7 @@ import weka.gui.sql.event.ConnectionListener;
  * Simple Knowledge Flow perspective that wraps the SqlViewer class
  * 
  * @author Mark Hall (mhall{[at]}pentaho{[dot]}com)
- * @version $Revision: 14494 $
+ * @version $Revision: 14497 $
  */
 public class SQLViewerPerspective extends JPanel implements
   KnowledgeFlowApp.KFPerspective {
