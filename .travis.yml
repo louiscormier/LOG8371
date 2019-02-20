@@ -5,4 +5,4 @@ jdk:
 install: true
 script: 
 mvnw install -DskipTests=true -Dmaven.javadoc.skip=true -B -V
-mvnw clean install
+mvn test -B
