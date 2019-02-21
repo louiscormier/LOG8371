@@ -16,3 +16,4 @@ Clusterer
 FarthestFirst
 SimpleKMeans
 
+test
